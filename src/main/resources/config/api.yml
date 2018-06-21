@@ -1,0 +1,11 @@
+api:
+  -
+    url: api/authenticate
+    method: POST
+    name: authenticateUser
+  -
+    url: api/users/ronny/ronny
+    method: GET
+    name: getUser
+
+
